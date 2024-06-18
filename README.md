@@ -6,4 +6,6 @@ Photo by <a href="https://unsplash.com/@giorgiotrovato?utm_content=creditCopyTex
 Photo by <a href="https://unsplash.com/@leecampbell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lee  Campbell</a> on <a href="https://unsplash.com/photos/gray-and-black-vinyl-turn-table-QVnw_3l_n0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
   Photo by <a href="https://unsplash.com/@nataliedivine?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Natalie Cardona</a> on <a href="https://unsplash.com/photos/pile-of-assorted-title-vinyl-album-record-sleeves-W8BRzoUTHNA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+  Photo by <a href="https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mick Haupt</a> on <a href="https://unsplash.com/photos/a-row-of-records-on-display-in-a-store-CbNBjnXXhNg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
