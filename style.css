@@ -1,0 +1,285 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.menu-container {
+    background-color: #1f2937;
+    border: #1f2937 20px;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: -15em;
+    margin-left: 15em;
+    margin-right: 15em;
+    padding: 7em ;
+    flex:1 100%;
+}
+
+.header-container {
+    font-family:roboto;
+    color: #F9FAF8;
+}
+
+
+.logo {
+    margin-top: -110px;
+}
+
+.img1 {
+    max-width: 95px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-top: -95px;
+    gap: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.menu {
+    color: white;
+    margin-right: 18px;
+}
+.wrapper {
+    margin: 100px auto;
+    width: 100%;
+    margin-left: 80px ;
+}
+
+
+.maintitle {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: -50px;
+    
+   
+}
+
+.subtext {
+   font-size: 12px;
+   margin-top: 35px;
+   margin-left: -70px;
+}
+
+.img2 {
+    float: right;
+    border-radius: 5px;
+    margin-top: -19px;
+    height: 250px;
+    
+}
+
+button {
+  cursor: pointer;
+  padding: 8px 16px;
+}
+
+button.signup {
+    background-color: royalblue;
+    border: 2px solid white;
+    color: white;
+    border-radius:8px ;
+    margin-top: 15px;
+    border-color: royalblue;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    color: #1f2937;
+    font-size: 28px ;
+    font-weight: bold;
+    margin-top: 285px;
+}
+
+#rcorners1 {
+  border-radius:20px ;
+  border: 3px solid royalblue;
+  background-image: url(images/giorgiotrovato.jpg);
+  background-size: 144px;
+  background-repeat: no-repeat;
+  margin-left: 970px;
+  margin-top:24px ;
+  width: 150px;
+  height: 150px;
+}
+
+.text1 {
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#rcorners2 {
+    border-radius: 20px;
+    border: 3px solid royalblue;
+    background-image: url(images/leecampbell.jpg);
+    background-size: 144px;
+    background-repeat: no-repeat;
+    margin-top: -9.5em;
+    margin-left: 760px;
+    width: 150px;
+    height: 150px;
+}
+
+.text2 {
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#rcorners3 {
+    border-radius: 20px;
+    border: 3px solid royalblue;
+    background-image: url(images/nataliecardona.jpg);
+    background-size: 195px;
+    background-repeat: no-repeat;
+    margin-top: -9.5em;
+    margin-left: 535px;
+    width: 150px;
+    height: 150px;
+}
+
+.text3 {
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#rcorners4 {
+    border-radius: 20px;
+    border: 3px solid rosybrown;
+    background-image: url(images/mickhaupt.jpg);
+    background-size: 217px;
+    background-repeat: no-repeat;
+    margin-top: -9.5em;
+    margin-left:315px ;
+    width: 150px;
+    height: 150px;
+}
+
+.text4 {
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.quote {
+    box-sizing: border-box;
+    border: 3px #E5E7EB ;
+    background-color: #E5E7EB;
+    margin: auto;
+    margin-top: 90px;
+    margin-left: 20em;
+    margin-right: 20em;
+    height: 300px;
+    width: 805px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.text5 {
+    font-family:light italic;
+    font-size: 19px;
+    color:#1f2937;
+    margin-top: 18px;
+    margin-left: 110px;
+}
+
+p {
+    font-weight:bold;
+    margin-top: 120px;
+    margin-right: 130px;
+}
+
+.call {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+    border-left-width: 15px;
+    border-right-width: 25px;
+    border-top-width: 8px;
+    border-bottom-width: 8px;
+    background-color: royalblue;
+    margin: auto;
+    width: 620px;
+    height: 100px;
+    
+    margin-top: 90px;
+
+}
+
+.sell {
+  font-size: 18px;
+  color: white;
+  margin-left: 90px;
+  margin-top: 25px;
+
+}
+
+.text6 {
+    font-size: 12px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+    margin-right: 112px;
+    margin-top: -2px;
+}
+
+button.signup2 {
+    font-size: 10px;
+    margin-left: 500px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+    padding: 8px 16px;
+    width: 77px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+}
+
+.footer {
+    margin: auto;
+    padding: 0;
+    border: 3px solid #191e28 ;
+    background-color: #191e28;
+    height: 60px;
+    width: 65%;
+    margin-top: 60px;
+}
+
+.text7 {
+    font-size: 12px;
+    color:white ;
+    opacity: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
